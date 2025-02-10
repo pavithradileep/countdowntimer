@@ -7,4 +7,4 @@ The Countdown Timer is a console-based application that allows users to set a sp
 
 Technologies :
 
-   https://img.shields.io/badge/python-blue
+   Python
